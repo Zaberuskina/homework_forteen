@@ -24,3 +24,15 @@ class HeaderPage(BasePage):
     def click_shkole(self):
         browser.element(HeaderLocators.BUTTON_SHKOLE).click()
         browser.should(have.url(f"{os.getenv('ROOT_URL')}shkole"))
+
+    @allure.step("Нажать кнопку 'Каталог'")
+    def click_catalog(self):
+        browser.element(HeaderLocators.BUTTON_CATALOG).click()
+        browser.should(have.url(f"{os.getenv('ROOT_URL')}catalog"))
+        return self
+
+    @allure.step("Нажать кнопку 'Cart'")
+    def click_cart(self):
+        browser.element(HeaderLocators.BUTTON_CART).click()
+        browser.should(have.url(f"{os.getenv('ROOT_URL')}cart"))
+        return self
