@@ -59,8 +59,8 @@ project/
 
 ### <img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" width="20"> Allure Report
 **Пример отчёта**:  
-https://jenkins.autotests.cloud/job/homework_forteen_ANikashova/11/allure/
-https://allure.autotests.cloud/launch/47786
+![https://jenkins.autotests.cloud/job/homework_forteen_ANikashova/11/allure/)
+![https://allure.autotests.cloud/launch/47786)
 
 ![img_2.png](img_2.png)
 
