@@ -66,5 +66,6 @@ project/
 ### <img src="https://telegram.org/img/t_logo.png" width="20"> Telegram Bot
 **Бот для уведомлений**:  
 [@homework_13_Nikashova_bot](https://t.me/homework_13_Nikashova_bot)
+
 ![img_1.png](img_1.png)
 
